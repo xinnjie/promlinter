@@ -28,6 +28,12 @@ make build
 
 Then you can find the `promlinter` binary file in the `./bin` directory.
 
+#### Go Install
+
+``` bash
+go install github.com/yeya24/promlinter/cmd/promlinter@latest
+```
+
 ## Usage
 
 ``` bash
